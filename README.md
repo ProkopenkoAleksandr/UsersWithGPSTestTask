@@ -21,4 +21,6 @@ MVVM + Coordinator (preferred as it was indicated in the vacancy)
 UIKit without Storyboard and XIBs, only layout with code
 
 #### Improvements
-Additionally, error handling was made if the user denies access to geolocation
+* Error handling if the user denies access to geolocation
+* Loading indicator while obtaining geolocation to improve user experience with the application
+
